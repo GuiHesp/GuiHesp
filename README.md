@@ -1,16 +1,18 @@
-### Hi there 👋
+### Oi, meu nome é Guilherme ;)
+Atualmente faço:
 
-<!--
-**GuiHesp/GuiHesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍🦰 Atualmente estou a procura de emprego.
+- 💼 Campos desejados: **Cientista de Dados**, programador em **Python**.
+- ⚡ Eu amo fazer **atividade física, musculação**.
+- Atualmente focado em:
 
-Here are some ideas to get you started:
+<div display="inline">
+  &nbsp;&nbsp;<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />&nbsp;&nbsp;
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Você também me encontra em:
+<a href="https://www.linkedin.com/in/guilherme-hespanhol-318488115/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
